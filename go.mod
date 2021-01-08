@@ -1,4 +1,4 @@
-module github.com/chenqinghe/gin-autorouter
+module github.com/agile-app/gin-autorouter
 
 go 1.13
 
